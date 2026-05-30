@@ -43,6 +43,11 @@ I am passionate about:
 - GitHub
 - VS Code
 
+## 📫 Contact Me
+
+- Email: ssebyaladenis18@gmail.com
+- GitHub: https://github.com/denistendo
+- LinkedIn: denistendo
 ![Denis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=denistendo&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denistendo&layout=compact&theme=tokyonight)
