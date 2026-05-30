@@ -16,3 +16,29 @@ I am passionate about:
 - 📱 Building applications with Flutter
 - 🌱 Currently exploring Machine Learning and Data Science
 - ⚡ Interested in solving real-world problems with technology
+
+## 🛠 Skills
+
+### Programming Languages
+- Python
+- Java
+- C
+- JavaScript
+
+### Web Development
+- HTML
+- CSS
+- React
+- Django
+
+### Mobile Development
+- Flutter
+
+### Databases
+- MySQL
+- SQLite
+
+### Tools
+- Git
+- GitHub
+- VS Code
