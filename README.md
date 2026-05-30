@@ -42,3 +42,5 @@ I am passionate about:
 - Git
 - GitHub
 - VS Code
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=denistendo&show_icons=true)
